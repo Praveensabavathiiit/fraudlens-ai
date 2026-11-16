@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,location,device
+TXN001,CUST101,500,Hyderabad,Mobile
+TXN002,CUST101,95000,London,Unknown
+TXN003,CUST102,1500,Mumbai,Mobile
+TXN004,CUST102,2000,Hyderabad,Laptop
+TXN005,CUST103,150000,London,Unknown
