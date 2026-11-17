@@ -70,3 +70,6 @@ if __name__ == "__main__":
     print("False Positives:", evaluation["false_positives"])
     print("True Negatives:", evaluation["true_negatives"])
     print("False Negatives:", evaluation["false_negatives"])
+    print("Precision:", round(evaluation["precision"], 2))
+    print("Recall:", round(evaluation["recall"], 2))
+    print("F1-Score:", round(evaluation["f1_score"], 2))
